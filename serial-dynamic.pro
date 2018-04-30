@@ -9,7 +9,6 @@ QT       -= core gui
 
 TARGET = serial
 TEMPLATE = lib
-CONFIG += staticlib
 
 DEFINES += SERIAL_LIBRARY
 
